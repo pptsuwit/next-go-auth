@@ -1,5 +1,9 @@
 # Basic Auth CRUD with golang + Nextjs
 
+`Frontend - Nextjs v14(typescript)`
+`Backend - Golang `
+`Database - Postgresql`
+
 ## Features
 
 - Login
@@ -11,11 +15,11 @@
 `Frontend`
 
 - requires [Nextjs](https://nextjs.org/) v14+ for frontend
-- requires [Ts-Node](https://www.npmjs.com/package/ts-node) v14+ for
+- requires [Ts-Node](https://www.npmjs.com/package/ts-node) v14+ for typescript
 
 `Backend`
 
-- requires [Golang](https://go.dev/) v1.21.3+ for backebnd
+- requires [Golang](https://go.dev/) v1.21.3+ for backend
 - requires [Air live reload](https://github.com/cosmtrek/air) to run backend.
 
 `Database`
